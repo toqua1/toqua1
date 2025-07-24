@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toqua1&label=Profile%20views&color=0e75b6&style=flat" alt="toqua1" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://heyzine.com/flip-book/20a0372abf.html](https://heyzine.com/flip-book/20a0372abf.html)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1FodvdxEt_xMre21xDFpxuUUNkIRKg1IG/view?usp=drive_link](https://drive.google.com/file/d/1FodvdxEt_xMre21xDFpxuUUNkIRKg1IG/view?usp=drive_link)
 
 - 💬 Ask me about **Flutter and Dart**
 
