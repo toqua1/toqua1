@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toqua1&show_icons=true&locale=en" alt="toqua1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toqua1&" alt="toqua1" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=toqua1&theme=radical&border_radius=5.4" alt="GitHub Streak" /></a>
