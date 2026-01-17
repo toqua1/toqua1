@@ -1,4 +1,4 @@
-<h2 align="Center">  Hi there, I'm Toqua  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h2 align="Center">Hi there, I'm Toqua  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 <h3 align="center">A passionat flutter mobile app developer from Egypt</h3>
 
